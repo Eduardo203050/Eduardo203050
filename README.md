@@ -90,7 +90,7 @@ Me chamo Eduardo José, Tenho 19 anos e estudo ADS
     alt="Estatistica Github"
     height="200" 
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo203050&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo203050&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
